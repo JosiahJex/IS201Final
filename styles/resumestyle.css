@@ -1,0 +1,78 @@
+h1{
+    text-align:center;
+    margin-bottom: 0;
+    color:white;
+    font-family: Georgia, serif;
+}
+h2{
+    text-decoration: underline;
+    color:black;
+    margin-bottom: 20px;
+    font-family: Georgia, serif;
+}
+.ResumeSection {
+    border: 3px solid #0E2F59;
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px 24px 16px;
+    max-width: 860px;
+    font-size:16px;
+    color:#0E2F59;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.Company{
+    font-weight:bold;
+    font-size:20px;
+}
+a {
+    color: white;
+    text-decoration:none;
+}
+.TopResumePage {
+    background-image: url(../images/bluebackground.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 30px 20px;
+    color: white;
+    font-size: 16px;
+}
+.contactinfo{
+    text-align: center;
+}
+body{
+    margin:0;
+    padding:0;
+    background-color: #F5F9FF;
+    font-family: Georgia, serif;
+}
+.WorkAndLocation{
+    display:flex;
+    justify-content:space-between;
+}
+.PositionAndTime{
+    font-style:italic;
+    display:flex;
+    justify-content:space-between;
+}
+.BackToTop{
+    text-align:center;
+}
+.BackToTop a{
+    font-size:16px;
+    color:#0E2F59;
+    text-decoration:underline;
+}
+.sectiontitle{
+    font-size:30px;
+    color:#0E2F59;
+}
+.topname{
+    font-size:50px;
+}
+li{
+    margin:10px;
+}
